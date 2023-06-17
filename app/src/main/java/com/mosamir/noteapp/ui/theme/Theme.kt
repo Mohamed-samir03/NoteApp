@@ -42,3 +42,13 @@ fun NoteAppTheme(darkTheme: Boolean = isSystemInDarkTheme(), content: @Composabl
         content = content
     )
 }
+
+@Composable
+fun CleanArchitectureNoteAppTheme(darkTheme: Boolean = true, content: @Composable() () -> Unit) {
+    MaterialTheme(
+        colors = DarkColorPalette,
+        typography = Typography,
+        shapes = Shapes,
+        content = content
+    )
+}
