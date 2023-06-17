@@ -10,7 +10,7 @@
    - Flow
    - Kotlin Coroutines
 
-<img src="https://github.com/Mohamed-samir03/NoteApp/assets/81251707/cbc46182-4cde-495a-9205-e6669baeaaba" height="10" width="10">Clean Architecture Note App For Create, modify and delete Notes, it can also be arranged by color, date or title (ascending and descending order).
+<img src="https://github.com/Mohamed-samir03/NoteApp/assets/81251707/cbc46182-4cde-495a-9205-e6669baeaaba" height="20" width="20"> Clean Architecture Note App For Create, modify and delete Notes, it can also be arranged by color, date or title (ascending and descending order).
 
 <div align=center>
         <img src="https://github.com/Mohamed-samir03/NoteApp/assets/81251707/f3da617f-d4b6-4c99-b732-0c19aee8368f" height="400" width="200">
