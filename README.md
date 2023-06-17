@@ -1,6 +1,5 @@
-<img src="https://github.com/Mohamed-samir03/NoteApp/assets/81251707/cbc46182-4cde-495a-9205-e6669baeaaba" height="30" width="30"> 
 # NoteApp
-
+<img src="https://github.com/Mohamed-samir03/NoteApp/assets/81251707/cbc46182-4cde-495a-9205-e6669baeaaba" height="30" width="30"> 
 - **Android** 
    - Kotlin
    - Jetpack compose
